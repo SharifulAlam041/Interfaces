@@ -1,6 +1,6 @@
 package org.example;
 
-public class Eagle4 implements NestedInterfaceInClass.InnerInterface{
+public class Eagle implements Bird{
     @Override
     public void canFly() {
 
